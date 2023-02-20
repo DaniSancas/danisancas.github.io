@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+	<title>Dani Sancas - Relatos</title>
+	<subtitle>Website personal de Dani Sancas</subtitle>
+	<link href="https://danisancas.com/categorias/relatos/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://danisancas.com"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2023-01-21T00:00:00+00:00</updated>
+	<id>https://danisancas.com/categorias/relatos/atom.xml</id>
+	<entry xml:lang="es">
+		<title>El primer viaje</title>
+		<published>2023-01-14T00:00:00+00:00</published>
+		<updated>2023-01-21T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://danisancas.com/el-primer-viaje/" type="text/html"/>
+		<id>https://danisancas.com/el-primer-viaje/</id>
+		<content type="html">&lt;p&gt;Elisabeth estaba sentada esperando a embarcar en el transporte. Miraba en derredor con cierto nerviosismo y mucha curiosidad. Después de 11 años de duro trabajo y un comportamiento ciudadano ejemplar, según los estándares del Gobierno, había llegado a adquirir la puntuación &lt;strong&gt;A+&lt;&#x2F;strong&gt;. &lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;Dicha puntuación conllevaba una serie de ventajas, entre ellas un generoso descuento a la hora de realizar viajes trans-oceánicos. Se había preocupado de ir ahorrando a lo largo del tiempo y finalmente consiguió los &lt;em&gt;378.749,99&lt;&#x2F;em&gt; créditos que costaba el billete, toda una ganga si lo comparáramos con el precio habitual sin aquel merecido descuento.&lt;&#x2F;p&gt;
+&lt;p&gt;Por fin iba a viajar, ¡era la primera de su familia en hacerlo! Se sentía ansiosa imaginando cómo sería la travesía, pero de pronto algo la sacó de sus pensamientos. Un asistente recorría la sección de pasajeros con puntuación &lt;strong&gt;A+&lt;&#x2F;strong&gt; ofreciendo bebidas y refrigerios. Enseguida le llamó la atención que ofrecieran &amp;quot;Café de Siberia&amp;quot; a un precio no demasiado alto. Nunca había tenido la oportunidad de comprar un café que no fuera artificial. El hecho de que solo quedara Siberia como único productor mundial hacía que su disponibilidad fuera muy limitada, y acompañado de un precio prohibitivo para la mayoría de la gente. «¿Será auténtico?», se preguntó.&lt;&#x2F;p&gt;
+&lt;p&gt;Cuando el asistente llegó a su altura, Elisabeth escaneó el código del café con su dispositivo personal. Desde que se aprobaron todas aquellas leyes de la &lt;strong&gt;IV Regulación&lt;&#x2F;strong&gt; hacía unos años, escanear un producto antes de adquirirlo era lo más sensato para evitar engaños. El escaner mostró los certificados del producto y los datos de la trazabilidad desde su lugar de origen hasta aquel mismo sitio. «Sí que parece auténtico», concluyó, y decidió completar la transacción.&lt;&#x2F;p&gt;
+&lt;p&gt;Degustó con calma la bebida. No sabría decir si era artificial o no, pero desde luego que no se parecía mucho al sucedáneo que compraba en algunas ocasiones especiales. Saboreó un amargor más suave y delicado, y percibía algunas tonalidades que no lograba asociar concretamente con nada, pero se convenció de que a eso debían oler los campos siberianos de café.&lt;&#x2F;p&gt;
+&lt;p&gt;Pasado un rato se abrieron las puertas para el embarque, terminó el poco café restante y se levantó para dirigirse al transporte junto con el resto de pasajeros.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Nota&lt;&#x2F;strong&gt;: si te ha gustado, te invito a que leas &lt;a href=&quot;https:&#x2F;&#x2F;danisancas.com&#x2F;inspiracion-el-primer-viaje&#x2F;&quot;&gt;qué me inspiró para &amp;quot;El primer viaje&amp;quot;&lt;&#x2F;a&gt;, donde repaso las ideas que me rondaban para escribir este micro-relato.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

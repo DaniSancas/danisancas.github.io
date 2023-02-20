@@ -1,0 +1,4 @@
+Sitemap: https://danisancas.com/sitemap.xml
+User-Agent: *
+Allow: /
+Host: https://danisancas.com
