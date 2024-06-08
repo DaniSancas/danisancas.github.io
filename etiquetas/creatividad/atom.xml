@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <title>Dani Sancas - Creatividad</title>
+    <subtitle>Website personal de Dani Sancas</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://danisancas.com/etiquetas/creatividad/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://danisancas.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-04-09T00:00:00+00:00</updated>
+    <id>https://danisancas.com/etiquetas/creatividad/atom.xml</id>
+    <entry xml:lang="es">
+        <title>Un momento para la creatividad</title>
+        <published>2023-04-09T00:00:00+00:00</published>
+        <updated>2023-04-09T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Dani Sancas
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://danisancas.com/un-momento-para-la-creatividad/"/>
+        <id>https://danisancas.com/un-momento-para-la-creatividad/</id>
+        <content type="html" xml:base="https://danisancas.com/un-momento-para-la-creatividad/">&lt;p&gt;Si esperábais un relato o alguna lectura interesante tengo malas noticias: Hoy vengo a hablar de mí.&lt;&#x2F;p&gt;
+&lt;p&gt;Últimamente me cuesta encontrar un momento para escribir, muestra de ello es el tiempo que ha pasado desde mi última publicación. Y si lo encuentro, no me siento creativo. No hablo del clásico bloqueo del escritor en el que uno se queda paralizado ante una página en blanco sin saber qué escribir. Simplemente no considero que tenga ideas que plasmar de manera habitual, por lo que ni siquiera me planteo encender el portátil e intentarlo.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;h2 id=&quot;comportamiento-estandarizado&quot;&gt;Comportamiento estandarizado&lt;&#x2F;h2&gt;
+&lt;p&gt;Mi percepción es que todo esto viene de lejos por mi trabajo en el sector de la informática (concretamente en programación y manejo de datos). Siento que mi trabajo, por su naturaleza, mata la creatividad. Este consiste en resolver problemas, como si de un puzzle se tratara, pero siguiendo unas normas que dejan poco margen para echar a volar la imaginación. En ciertas ocasiones escribir código puede ser creativo pero generalmente es lo contrario: Intentamos escribir código todos de la misma manera para tener un estándar y que cualquiera del equipo lo entienda para que pueda tomar el control en un momento dado. Es una norma de lo más habitual en cualquier empresa, y es una buena práctica sin nada malo... salvo que corres el riesgo de convertirte en un robot.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;carga-cognitiva&quot;&gt;Carga cognitiva&lt;&#x2F;h2&gt;
+&lt;p&gt;Por si fuera poco, desde hace un tiempo siento que se me fríe el cerebro de tanto pensar, y cuando termino la jornada solo tengo ganas de despejarme, no de ponerme a pensar más para escribir. &lt;&#x2F;p&gt;
+&lt;p&gt;Es más, en mi caso después de trabajar toca ponerse con el deporte, e incluso a veces estoy tan saturado que pensar en concentrarme en el gimnasio o en la pista de Esgrima ya me provoca cierto rechazo. Sí, podría ir en piloto automático. Podría hacer unas series en el gimnasio sin mucha intensidad, o ir a la pista a &lt;em&gt;tirar&lt;&#x2F;em&gt; con la idea únicamente de divertirme. Podría hacer eso de vez en cuando, sería un buen entretenimiento. Pero no podría ser siempre así, no mejoraría en ninguno de los 2 deportes, solo estaría pasando el rato.&lt;&#x2F;p&gt;
+&lt;p&gt;Pienso que la creatividad requiere de largos momentos de descanso, incluso de aburrimiento, para que aflore. Requiere de un rato largo en el que la mente divague, que esté ociosa y pueda perderse en su propio mundo. Todo esto es difícil cuando existe una alta demanda cognitiva sostenida en el tiempo.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;dar-la-bienvenida-al-aburrimiento&quot;&gt;Dar la bienvenida al aburrimiento&lt;&#x2F;h2&gt;
+&lt;p&gt;Siempre hemos tratado el aburrimiento como si fuera algo malo. Como una pérdida de tiempo, quizá como un símbolo de fracaso como personas en una sociedad competitiva e hiper-productiva. En definitiva, el aburrimiento se ha convertido en algo a evitar. Pero quizá sea necesario llegar a ese punto para que la mente vuele libre y sea capaz de imaginar aquello que se salga de lo cotidiano. &lt;&#x2F;p&gt;
+&lt;p&gt;Me di cuenta de ello hace ya mucho tiempo, cuando quería hacer &lt;em&gt;side projects&lt;&#x2F;em&gt; (pequeños programas fuera de mi jornada laboral, ya sean para automatizar o resolver un problema personal, o como medio para practicar un determinado lenguaje de programación) y me fijaba en que no se me ocurrían ideas. Era capaz de implementar una idea sin problema, el problema es que no había idea que implementar.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;explorando-soluciones&quot;&gt;Explorando soluciones&lt;&#x2F;h2&gt;
+&lt;p&gt;En mi caso creo que no funcionaría el forzarse a escribir cada día un rato. Quizá consideraría más efectivo quitar distracciones superfluas para dejar paso al tiempo conmigo mismo. Quizá lo intente y pueda entreteneros pronto con alguna creación fruto de mi aburrimiento.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+</feed>
