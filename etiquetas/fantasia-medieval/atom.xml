@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <title>Dani Sancas - Fantasía medieval</title>
+    <subtitle>Website personal de Dani Sancas</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://danisancas.com/etiquetas/fantasia-medieval/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://danisancas.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-11-09T00:00:00+00:00</updated>
+    <id>https://danisancas.com/etiquetas/fantasia-medieval/atom.xml</id>
+    <entry xml:lang="es">
+        <title>Qué me inspiró para escribir &#x27;El mapa&#x27;</title>
+        <published>2023-11-09T00:00:00+00:00</published>
+        <updated>2023-11-09T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Dani Sancas
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://danisancas.com/inspiracion-el-mapa/"/>
+        <id>https://danisancas.com/inspiracion-el-mapa/</id>
+        <content type="html" xml:base="https://danisancas.com/inspiracion-el-mapa/">&lt;p&gt;En este artículo os contaré qué pasaba por mi cabeza al escribir &lt;a href=&quot;https:&#x2F;&#x2F;danisancas.com&#x2F;el-mapa&#x2F;&quot;&gt;El mapa&lt;&#x2F;a&gt;. Si no lo tenéis muy fresco, os invito a releerlo.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;h2 id=&quot;unos-desgraciados-aventureros&quot;&gt;Unos desgraciados aventureros&lt;&#x2F;h2&gt;
+&lt;p&gt;Lo primero, y quizá más importante de este relato, es que está basado en una serie de personajes de un juego de rol llamado &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;es.wikipedia.org&#x2F;wiki&#x2F;Warhammer,_el_juego_de_rol&quot;&gt;Warhammer Fantasy&lt;&#x2F;a&gt;. Durante cerca de una década estuvimos reuniéndonos cuando podíamos para jugar a diversos juegos de rol. El juego al que más atención le llegamos a prestar fue sin duda a &lt;em&gt;Warhammer&lt;&#x2F;em&gt; y estuvimos jugando una campaña de este juego durante años (sí, nuestro ritmo de avance fue lento y ni sé la cantidad de horas que le llegamos a dedicar), y estos fueron nuestros personajes en dicha campaña.&lt;&#x2F;p&gt;
+&lt;p&gt;Los nombro por orden de aparición en el relato:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Magmar&lt;&#x2F;em&gt;: mercenario enano (Silvia)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;Viktor&lt;&#x2F;em&gt;: cazarrecompensas halfling (Dani, es decir, yo)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;Ragnar&lt;&#x2F;em&gt;: sicario enano (Igor)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;Arty&lt;&#x2F;em&gt;: ladrón de tumbas humano (Gorka)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;Karin&lt;&#x2F;em&gt;: ladrona halfling (Leti)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Falta, por supuesto, nombrar al aclamado Director de Juego &lt;em&gt;Akrabu Bayo&lt;&#x2F;em&gt; (Jago).&lt;&#x2F;p&gt;
+&lt;p&gt;Una cosa que caracterizaba nuestras partidas era un humor muy negro y ácido, que daba sin duda identidad a nuestros personajes. Éstos, hablando en plata, eran unos desgraciados que empezaban con la intención de comerse el mundo y terminaban contentándose con vivir un día más sin que les llovieran demasiadas hostias. A medida que avanzaban sus historias cada vez estaban más tullidos y desquiciados, a la par que fortalecidos por las inclemencias de ese mundo.&lt;&#x2F;p&gt;
+&lt;p&gt;Mi escasa memoria me impide dar muchos más detalles sobre las aventuras de aqueste peculiar grupo de aventureros, mas no temáis, pues existe un blog en el cual se han ido recogiendo los resúmenes de dichas partidas y otras muchas otras partidas que hemos echado tanto a &lt;em&gt;Warhammer&lt;&#x2F;em&gt; como a otros juegos de rol (como, por ejemplo, el hilarante &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;es.wikipedia.org&#x2F;wiki&#x2F;Fanhunter&quot;&gt;FanHunter&lt;&#x2F;a&gt;).&lt;&#x2F;p&gt;
+&lt;p&gt;El mentado blog, &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;sumandopifias.blogspot.com&quot;&gt;Sumando Pifias&lt;&#x2F;a&gt;, es obra y propiedad de Jago, donde ha ido dando rienda suelta a su visión de las partidas que fueron aconteciendo. Aprovecho también para mencionar el trabajo de Leti haciendo apuntes con gran diligencia para que tuviéramos resúmenes y una gran enciclopedia de datos que consultar en momentos difíciles de la campaña (es decir, en todas y cada una de las sesiones). A ambos les agradezco enormemente la curación de este archivo de documentos históricos.&lt;&#x2F;p&gt;
+&lt;p&gt;Si queréis echarle un ojo a las fichas de personaje de este variopinto grupo, aquí os dejo &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;sumandopifias.blogspot.com&#x2F;2018&#x2F;09&#x2F;delincuentes-del-show.html?m=0&quot;&gt;la correspondiente entrada de blog&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Y, sin más preámbulos, cambiamos completamente de tercio y hablamos del dichoso mapa.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;un-mapa-falso&quot;&gt;Un mapa falso&lt;&#x2F;h2&gt;
+&lt;p&gt;Después del descubrimiento de América, y con la intención original de llegar a las Indias (las reales) se buscaban el paso del Noroeste (pasando por el norte de América) y el paso del Nordeste (pasando por el norte de Siberia).&lt;&#x2F;p&gt;
+&lt;p&gt;Eran zonas que durante mucho tiempo estuvieron casi sin explorar, ya que las condiciones eran durísimas y el hielo que se formaba desconfiguraba completamente el panorama, haciendo que cada expedición pudiera encontrarse con un muro que, literalmente, les cortaba el paso. O si les sorprendía el invierno por esas latitudes los barco podían quedar atrapados en el hielo durante meses o incluso años.&lt;&#x2F;p&gt;
+&lt;p&gt;Por ello, en lugares tan remotos como estos tener mapas fiables era de vital importancia.&lt;&#x2F;p&gt;
+&lt;p&gt;Sobre el dichoso mapa que inspiró este relato: aparentemente a mediados del siglo XVI dos hermanos venecianos llamados Nicolo y Antonio Zeno publicaron una supuesta copia de un diario de un familiar suyo. Este diario narraba una increíble aventura, por mares y tierras del norte, una expedición a cargo de un rey de una isla al norte de Noruega y muchas cosas más. Una gran cantidad de lugares y eventos que se recogían en ese diario eran simple y llanamente mentira, todo era una invención de los hermanos. Pero en aquel momento en el que la información era muy escasa y casi imposible de verificar, este diario debió ser un bombazo por las emocionantes peripecias que aparecían en él.&lt;&#x2F;p&gt;
+&lt;p&gt;La guinda del pastel era que ese diario iba acompañado de &lt;strong&gt;un mapa&lt;&#x2F;strong&gt;, que cartografiaba con gran detalle los lugares descritos en el diario, combinando lugares reales y conocidos con otros inventados, lo que le confería un aura de autenticidad. Esto desembocó en que durante más de un siglo y medio muchos mapas de la época se basaran en él, mandando a decenas de expediciones lugares que no se correspondía con la realidad.&lt;&#x2F;p&gt;
+&lt;p&gt;Todo esto se hizo con la intención de reclamar ciertos territorios americanos para el estado de Venecia, aludiendo a que este supuesto familiar de los Zeno había llegado antes que nadie a una serie de lugares (sobre el 1400, antes incluso que la expedición de Colón). Pero las consecuencias implicaron que hubo versiones de este mapa que continuaron circulando varios siglos hasta que se consiguió erradicar este fraude.&lt;&#x2F;p&gt;
+&lt;p&gt;Toda esta información que pongo aquí aparece en el magnífico libro &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.amazon.com&#x2F;500-a%C3%B1os-fr%C3%ADo-aventura-%C3%81rtico&#x2F;dp&#x2F;8491994122&quot;&gt;500 años de frío&lt;&#x2F;a&gt;, del historiador y divulgador científico &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;irreductible.naukas.com&#x2F;&quot;&gt;Javier Peláez&lt;&#x2F;a&gt;, en la que recoge 5 siglos de expediciones al Ártico. Recomiendo encarecidamente su lectura.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Nota&lt;&#x2F;em&gt;: Si os animáis a leerlo, yo lo hice teniendo la aplicación de &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;earth.google.com&#x2F;&quot;&gt;Google Earth&lt;&#x2F;a&gt; abierta en el móvil a la par que leía el libro, permitiéndome ubicar cada zona que iba mencionando Peláez. Eso hizo muy amena e interesante la lectura, siguiendo facilmente las localizaciones de las diferentes expediciones.&lt;&#x2F;p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;500_a%C3%B1os_de_frio.jpg&quot; alt=&quot;Portada del libro 500 años de frío, de Javier Peláez&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+  &lt;p class=&quot;image-footer&quot;&gt;500 años de frío, escrito por Javier Peláez&lt;&#x2F;p&gt;
+&lt;&#x2F;center&gt;
+&lt;p&gt;Y hasta aquí la inspiración de &quot;El mapa&quot;, me quedan artículos de explicaciones casi más largas que el propio relato. Espero que lo hayáis disfrutado y, mejor todavía, que hayáis aprendido algo nuevo.&lt;&#x2F;p&gt;
+&lt;p&gt;Tengo intención de escribir otro relato con estos personajes, con suerte tendré la oportunidad de darle forma antes de final de año.&lt;&#x2F;p&gt;
+&lt;p&gt;¡Nos vemos en el próximo artículo!&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>El mapa</title>
+        <published>2023-10-22T00:00:00+00:00</published>
+        <updated>2023-11-09T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Dani Sancas
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://danisancas.com/el-mapa/"/>
+        <id>https://danisancas.com/el-mapa/</id>
+        <content type="html" xml:base="https://danisancas.com/el-mapa/">&lt;p&gt;— No he encontrado nada... — dijo Magmar, el sicario enano, volviendo a la sala principal de la mazmorra.&lt;&#x2F;p&gt;
+&lt;p&gt;— Yo he estado investigando las dos galerías de la zona este. Son un callejón sin salida. — dijo Viktor, el cazarrecompensas de raza &lt;em&gt;halfling&lt;&#x2F;em&gt; también conocidos como &lt;em&gt;medianos&lt;&#x2F;em&gt;, con una expresión de decepción. — Esperemos a que vuelvan los demás, a ver si traen mejores noticias.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;Los aventureros se hallaban bajo una enorme bóveda natural en una cueva al pie del macizo rocoso de Ostland, en la parte septentrional del Imperio del Viejo Mundo. En el medio de la sala yacían tendidos los cadáveres de tres hombres bestia, que habían sido víctimas de las armas del grupo de aventureros hacía un par de horas.&lt;&#x2F;p&gt;
+&lt;p&gt;Ragnar, el otro enano del grupo, apareció por una de las galerías, con una cara de enfado contenido. — Espero que vosotros hayáis encontrado algo, me he recorrido varios kilómetros de galerías ¡y no he visto más que las letrinas de estos despojos! — dijo señalando con desdén hacia los cadáveres.&lt;&#x2F;p&gt;
+&lt;p&gt;Viktor, conocedor del malhumor que caracterizaba a Ragnar intentó rebajar un poco la tensión. — Bueno, todavía faltan mi hermana y Arty, seguro que alguno de los dos nos da una alegría. — Aunque realmente no estaba nada convencido de lo que acababa de decir.&lt;&#x2F;p&gt;
+&lt;p&gt;Pasó un buen rato hasta que apareció Arty, el único humano del grupo y practicante de la noble profesión de ladrón de cadáveres. Venía con aires de cansancio.&lt;&#x2F;p&gt;
+&lt;p&gt;— ¡¿...Y bien?! — Le espetó Ragnar según le vio aparecer.&lt;&#x2F;p&gt;
+&lt;p&gt;— Nada de mucho valor... — comenzó a decir a medida que se acercaba a sus compañeros — A juzgar por la cantidad de huesos que he desenterrado estos hombres bestia debían llevar mínimo un año viviendo en esta mazmorra. He encontrado esta alianza enterrada en una fosa común de huesos humanos pero... — No le dio tiempo a continuar, ya que el impaciente enano se la arrebató para inspeccionarla de cerca.&lt;&#x2F;p&gt;
+&lt;p&gt;— ¡Pero si esto no vale nada! Es una alianza de plata de algún campesino humano, no tiene ni inscripciones, ni siquiera está bien tallada... ¡menuda basura de botín nos traes! — Y dejó caer el anillo al suelo.&lt;&#x2F;p&gt;
+&lt;p&gt;— Ya te he dicho que no he encontrado nada de valor. — replicó Arty con los ojos en blanco. Acto seguido se agachó a recoger su pequeña recompensa por el esfuerzo invertido. «Me alegro de que no te parezca suficiente, ya me lo quedo yo» pensó para sus adentros.&lt;&#x2F;p&gt;
+&lt;p&gt;Justo en ese momento asomaba la pequeña Karin por la galería que faltaba por explorar, cubierta de tierra hasta las cejas. Las miradas de todo el grupo se fijaron en ella, interrogándola en silencio durante unos instantes. La &lt;em&gt;halfling&lt;&#x2F;em&gt; se paró en seco ante esa inquisitorial bienvenida. Miró a su hermano Viktor. Éste le devolvió la mirada con un gesto que claramente la conminaba a compartir sus hallazgos, si los hubiera. Karin comprendió por qué todo el grupo estaba tan impaciente.&lt;&#x2F;p&gt;
+&lt;p&gt;— Yo tampoco he encontrado nada. — dijo bajando la mirada, casi avergonzada.&lt;&#x2F;p&gt;
+&lt;p&gt;— Pues nos ha salido cara la aventura. — dijo el joven enano Magmar con una risilla nerviosa, adelantándose a la reacción que sabía que tendría su compatriota. Ragnar se disponía a maldecir en &lt;em&gt;khazalid&lt;&#x2F;em&gt;, la lengua de los enanos, cuando Viktor decidió hacer algo productivo antes de que la ira de su compañero aumentara.&lt;&#x2F;p&gt;
+&lt;p&gt;— Repasemos una vez más el mapa, por si acaso. — abrió su petate y sacó con sumo cuidado el valioso pergamino que habían comprado en Kemperbad 3 semanas atrás con el dinero de todo el grupo.&lt;&#x2F;p&gt;
+&lt;p&gt;Lo extendió y sujetó con ambas manos en el aire, y el resto del grupo se puso a inspeccionarlo a su alrededor. Permanecieron en silencio varios minutos, hasta que se percataron de que habían dejado de oír la pesada respiración de Ragnar. Uno a uno los miembros del grupo fueron desviando la mirada hacia su compañero enano. Éste estaba rojo como un tomate, con la mirada inyectada en sangre y la vena de la frente palpitando con fuerza suficiente como para explotar en cualquier momento.&lt;&#x2F;p&gt;
+&lt;p&gt;Viktor en un acto reflejo dio un paso atrás y apartó el mapa del alcance del enano. — ¿Qué pasa? — preguntó el &lt;em&gt;hafling&lt;&#x2F;em&gt; sin entender muy bien el motivo de la ira contenida de Ragnar.&lt;&#x2F;p&gt;
+&lt;p&gt;— Cómo no me he dado cuenta antes... ¡¡ESTE MAPA ES FALSO!! — estalló por fin.&lt;&#x2F;p&gt;
+&lt;p&gt;— ¡Qué va a ser falso! — dijo Viktor totalmente desconcertado, mientras alternaba vistazos al mapa y a Ragnar.&lt;&#x2F;p&gt;
+&lt;p&gt;— ¿Estás diciendo que nos han timado? — preguntó Karin, con una expresión que no se sabía muy bien si era pura inocencia o estaba instigando al enano a que soltara todo el enfado que tenía acumulado. Viktor, que conocía bien a su hermana, sabía que se trataba de lo segundo y le lanzó una mirada de cariñosa desaprobación mientras pensaba «tampoco lo azuces, ¡lo que nos faltaba!»&lt;&#x2F;p&gt;
+&lt;p&gt;— Es falso, el que ha dibujado esto no ha estado en esta zona nunca. — continuó Ragnar acercándose al mapa un poco más calmado, asumiendo que habían hecho el canelo las últimas semanas. — La localización de Esk y Wolfenburgo están totalmente desalineadas con la cadena rocosa en la que nos encontramos. Simplemente ha dibujado unas cuantas montañas y ha marcado con una X roja donde le ha parecido, ¡y nos ha cobrado 80 monedas de oro por semejante falsificación!&lt;&#x2F;p&gt;
+&lt;p&gt;— Ahora que lo dices sí es verdad que Wolfenburgo estaba bastante más lejos de lo que parece en el mapa. — Intervino Arty rascándose el mentón. — Pero hemos encontrado esta cueva más o menos donde indica la X roja del mapa.&lt;&#x2F;p&gt;
+&lt;p&gt;— ¿Casualidad? — se aventuró el joven Magmar.&lt;&#x2F;p&gt;
+&lt;p&gt;— Exacto. — sentenció Ragnar. — Llevamos 4 días buscando una cueva, era cuestión de tiempo que encontráramos una.&lt;&#x2F;p&gt;
+&lt;p&gt;Viktor bajó el mapa con gesto derrotado. Ragnar tenía razón, un vistazo más analítico al mapa desvelaba fallos garrafales que a primera vista podían pasar por pequeñas inconsistencias cartográficas. Habían inspeccionado la mazmorra de arriba a abajo y no habían encontrado nada. Decididamente les habían tomado el pelo.&lt;&#x2F;p&gt;
+&lt;p&gt;— Bueno... ¿y entonces qué hacemos ahora? — preguntó Arty.&lt;&#x2F;p&gt;
+&lt;p&gt;— No sé vosotros, pero yo voy a recuperar el dinero, ¡con intereses! — dijo Ragnar mientras apretaba el mango de su hacha hasta que sus nudillos se quedaron blancos.&lt;&#x2F;p&gt;
+&lt;p&gt;— ¿En serio? Pero si estamos a más de dos semanas de viaje. — se quejó Karin.&lt;&#x2F;p&gt;
+&lt;p&gt;— Lo sé, los intereses van a ir acordes. — sentenció Ragnar mientras se dirigía a la salida con gesto decidido.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Nota&lt;&#x2F;strong&gt;: si te ha gustado, te invito a que leas &lt;a href=&quot;https:&#x2F;&#x2F;danisancas.com&#x2F;inspiracion-el-mapa&#x2F;&quot;&gt;Qué me inspiró para escribir &#x27;El mapa&#x27;&lt;&#x2F;a&gt;, donde repaso las ideas que me rondaban para escribir este micro-relato.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+    </entry>
+</feed>

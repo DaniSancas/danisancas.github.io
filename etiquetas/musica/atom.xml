@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <title>Dani Sancas - Música</title>
+    <subtitle>Website personal de Dani Sancas</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://danisancas.com/etiquetas/musica/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://danisancas.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-07-27T00:00:00+00:00</updated>
+    <id>https://danisancas.com/etiquetas/musica/atom.xml</id>
+    <entry xml:lang="es">
+        <title>La vida en Si bemol</title>
+        <published>2024-07-27T00:00:00+00:00</published>
+        <updated>2024-07-27T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Dani Sancas
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://danisancas.com/la-vida-en-si-bemol/"/>
+        <id>https://danisancas.com/la-vida-en-si-bemol/</id>
+        <content type="html" xml:base="https://danisancas.com/la-vida-en-si-bemol/">&lt;p&gt;¡Saludos, lectores&#x2F;as!&lt;&#x2F;p&gt;
+&lt;p&gt;Ha pasado medio año de silencio desde mi última publicación, así que he decidido poneros un poco al día de algún que otro cambio en mi vida diaria.&lt;&#x2F;p&gt;
+&lt;p&gt;Seguramente recordaréis que por Navidades &lt;a href=&quot;https:&#x2F;&#x2F;danisancas.com&#x2F;resumen-2023&#x2F;&quot;&gt;me auto-regalé una ocarina&lt;&#x2F;a&gt;. El caso es que enseguida sentí que se me quedaba pequeña. Y después de cerca de un año dándole vueltas, en Marzo de este año decidí dar el paso y comenzar a aprender un instrumento cuyo sonido siempre me ha gustado. Un sonido que me parece uno de los más dulces y bonitos de la orquesta: &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;es.wikipedia.org&#x2F;wiki&#x2F;Clarinete&quot;&gt;el clarinete&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;center&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;clarinete.jpg&quot; alt=&quot;Clarinete&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+  &lt;p class=&quot;image-footer&quot;&gt;¡Menos fotos y más practicar!&lt;&#x2F;p&gt;
+&lt;&#x2F;center&gt;
+&lt;p&gt;Durante los primeros meses me he tomado bastante en serio practicar dicho instrumento (unas 5-6 horas semanales) y de momento creo que le estoy sacando bastante partido, aunque ultimamente estoy un poco más vago y quizá solo estoy practicando la mitad del tiempo.&lt;&#x2F;p&gt;
+&lt;p&gt;Pero al margen del tiempo de práctica que dedique semanalmente, que no es de lo que venía a hablar aquí, quería recalcar una sensación que me está gustando mucho durante la clase semanal de clarinete a la que estoy asistiendo en una escuela de música del barrio.&lt;&#x2F;p&gt;
+&lt;p&gt;Durante todo el día tengo la cabeza llena de información, de pensamientos, con cierta saturación del trabajo que arrastro ya desde hace un tiempo, con mil cosas que hacer cada día... Y sin embargo, al empezar la clase todo eso desaparece. El mundo parece quedarse en silencio y solo existe la música durante un rato. Consigo concentrarme sin esfuerzo (para sorpresa mía) y todo lo demás queda relegado a un segundo plano.&lt;&#x2F;p&gt;
+&lt;p&gt;Debo decir que es una sensación de paz y de descanso muy agradable. Como si de repente cesara un ruido de fondo, como si no me costara esfuerzo centrarme únicamente en los ejercicios que repasamos en clase.&lt;&#x2F;p&gt;
+&lt;p&gt;Sumado esto a que poco a poco voy pudiendo tocar melodías que suenan decentemente, creo que ha sido todo un acierto retomar la música después de unos 10 años sin tocar ningún instrumento. Hace poco tuve la última clase de este curso escolar y, aunque venga bien descansar un poco en verano, voy a echar de menos lo que me aporta este rato de concentración semanal hasta que lo volvamos a retomar en septiembre.&lt;&#x2F;p&gt;
+&lt;p&gt;Ahora tocará armarse de paciencia para seguir practicando aunque no apetezca algunos días, porque el premio por seguir practicando disciplinas artísticas esta claro que merece la pena.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+</feed>

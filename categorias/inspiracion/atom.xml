@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <title>Dani Sancas - Inspiración</title>
+    <subtitle>Website personal de Dani Sancas</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://danisancas.com/categorias/inspiracion/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://danisancas.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-11-09T00:00:00+00:00</updated>
+    <id>https://danisancas.com/categorias/inspiracion/atom.xml</id>
+    <entry xml:lang="es">
+        <title>Qué me inspiró para escribir &#x27;El mapa&#x27;</title>
+        <published>2023-11-09T00:00:00+00:00</published>
+        <updated>2023-11-09T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Dani Sancas
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://danisancas.com/inspiracion-el-mapa/"/>
+        <id>https://danisancas.com/inspiracion-el-mapa/</id>
+        <content type="html" xml:base="https://danisancas.com/inspiracion-el-mapa/">&lt;p&gt;En este artículo os contaré qué pasaba por mi cabeza al escribir &lt;a href=&quot;https:&#x2F;&#x2F;danisancas.com&#x2F;el-mapa&#x2F;&quot;&gt;El mapa&lt;&#x2F;a&gt;. Si no lo tenéis muy fresco, os invito a releerlo.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;h2 id=&quot;unos-desgraciados-aventureros&quot;&gt;Unos desgraciados aventureros&lt;&#x2F;h2&gt;
+&lt;p&gt;Lo primero, y quizá más importante de este relato, es que está basado en una serie de personajes de un juego de rol llamado &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;es.wikipedia.org&#x2F;wiki&#x2F;Warhammer,_el_juego_de_rol&quot;&gt;Warhammer Fantasy&lt;&#x2F;a&gt;. Durante cerca de una década estuvimos reuniéndonos cuando podíamos para jugar a diversos juegos de rol. El juego al que más atención le llegamos a prestar fue sin duda a &lt;em&gt;Warhammer&lt;&#x2F;em&gt; y estuvimos jugando una campaña de este juego durante años (sí, nuestro ritmo de avance fue lento y ni sé la cantidad de horas que le llegamos a dedicar), y estos fueron nuestros personajes en dicha campaña.&lt;&#x2F;p&gt;
+&lt;p&gt;Los nombro por orden de aparición en el relato:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Magmar&lt;&#x2F;em&gt;: mercenario enano (Silvia)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;Viktor&lt;&#x2F;em&gt;: cazarrecompensas halfling (Dani, es decir, yo)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;Ragnar&lt;&#x2F;em&gt;: sicario enano (Igor)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;Arty&lt;&#x2F;em&gt;: ladrón de tumbas humano (Gorka)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;em&gt;Karin&lt;&#x2F;em&gt;: ladrona halfling (Leti)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Falta, por supuesto, nombrar al aclamado Director de Juego &lt;em&gt;Akrabu Bayo&lt;&#x2F;em&gt; (Jago).&lt;&#x2F;p&gt;
+&lt;p&gt;Una cosa que caracterizaba nuestras partidas era un humor muy negro y ácido, que daba sin duda identidad a nuestros personajes. Éstos, hablando en plata, eran unos desgraciados que empezaban con la intención de comerse el mundo y terminaban contentándose con vivir un día más sin que les llovieran demasiadas hostias. A medida que avanzaban sus historias cada vez estaban más tullidos y desquiciados, a la par que fortalecidos por las inclemencias de ese mundo.&lt;&#x2F;p&gt;
+&lt;p&gt;Mi escasa memoria me impide dar muchos más detalles sobre las aventuras de aqueste peculiar grupo de aventureros, mas no temáis, pues existe un blog en el cual se han ido recogiendo los resúmenes de dichas partidas y otras muchas otras partidas que hemos echado tanto a &lt;em&gt;Warhammer&lt;&#x2F;em&gt; como a otros juegos de rol (como, por ejemplo, el hilarante &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;es.wikipedia.org&#x2F;wiki&#x2F;Fanhunter&quot;&gt;FanHunter&lt;&#x2F;a&gt;).&lt;&#x2F;p&gt;
+&lt;p&gt;El mentado blog, &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;sumandopifias.blogspot.com&quot;&gt;Sumando Pifias&lt;&#x2F;a&gt;, es obra y propiedad de Jago, donde ha ido dando rienda suelta a su visión de las partidas que fueron aconteciendo. Aprovecho también para mencionar el trabajo de Leti haciendo apuntes con gran diligencia para que tuviéramos resúmenes y una gran enciclopedia de datos que consultar en momentos difíciles de la campaña (es decir, en todas y cada una de las sesiones). A ambos les agradezco enormemente la curación de este archivo de documentos históricos.&lt;&#x2F;p&gt;
+&lt;p&gt;Si queréis echarle un ojo a las fichas de personaje de este variopinto grupo, aquí os dejo &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;sumandopifias.blogspot.com&#x2F;2018&#x2F;09&#x2F;delincuentes-del-show.html?m=0&quot;&gt;la correspondiente entrada de blog&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Y, sin más preámbulos, cambiamos completamente de tercio y hablamos del dichoso mapa.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;un-mapa-falso&quot;&gt;Un mapa falso&lt;&#x2F;h2&gt;
+&lt;p&gt;Después del descubrimiento de América, y con la intención original de llegar a las Indias (las reales) se buscaban el paso del Noroeste (pasando por el norte de América) y el paso del Nordeste (pasando por el norte de Siberia).&lt;&#x2F;p&gt;
+&lt;p&gt;Eran zonas que durante mucho tiempo estuvieron casi sin explorar, ya que las condiciones eran durísimas y el hielo que se formaba desconfiguraba completamente el panorama, haciendo que cada expedición pudiera encontrarse con un muro que, literalmente, les cortaba el paso. O si les sorprendía el invierno por esas latitudes los barco podían quedar atrapados en el hielo durante meses o incluso años.&lt;&#x2F;p&gt;
+&lt;p&gt;Por ello, en lugares tan remotos como estos tener mapas fiables era de vital importancia.&lt;&#x2F;p&gt;
+&lt;p&gt;Sobre el dichoso mapa que inspiró este relato: aparentemente a mediados del siglo XVI dos hermanos venecianos llamados Nicolo y Antonio Zeno publicaron una supuesta copia de un diario de un familiar suyo. Este diario narraba una increíble aventura, por mares y tierras del norte, una expedición a cargo de un rey de una isla al norte de Noruega y muchas cosas más. Una gran cantidad de lugares y eventos que se recogían en ese diario eran simple y llanamente mentira, todo era una invención de los hermanos. Pero en aquel momento en el que la información era muy escasa y casi imposible de verificar, este diario debió ser un bombazo por las emocionantes peripecias que aparecían en él.&lt;&#x2F;p&gt;
+&lt;p&gt;La guinda del pastel era que ese diario iba acompañado de &lt;strong&gt;un mapa&lt;&#x2F;strong&gt;, que cartografiaba con gran detalle los lugares descritos en el diario, combinando lugares reales y conocidos con otros inventados, lo que le confería un aura de autenticidad. Esto desembocó en que durante más de un siglo y medio muchos mapas de la época se basaran en él, mandando a decenas de expediciones lugares que no se correspondía con la realidad.&lt;&#x2F;p&gt;
+&lt;p&gt;Todo esto se hizo con la intención de reclamar ciertos territorios americanos para el estado de Venecia, aludiendo a que este supuesto familiar de los Zeno había llegado antes que nadie a una serie de lugares (sobre el 1400, antes incluso que la expedición de Colón). Pero las consecuencias implicaron que hubo versiones de este mapa que continuaron circulando varios siglos hasta que se consiguió erradicar este fraude.&lt;&#x2F;p&gt;
+&lt;p&gt;Toda esta información que pongo aquí aparece en el magnífico libro &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.amazon.com&#x2F;500-a%C3%B1os-fr%C3%ADo-aventura-%C3%81rtico&#x2F;dp&#x2F;8491994122&quot;&gt;500 años de frío&lt;&#x2F;a&gt;, del historiador y divulgador científico &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;irreductible.naukas.com&#x2F;&quot;&gt;Javier Peláez&lt;&#x2F;a&gt;, en la que recoge 5 siglos de expediciones al Ártico. Recomiendo encarecidamente su lectura.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Nota&lt;&#x2F;em&gt;: Si os animáis a leerlo, yo lo hice teniendo la aplicación de &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;earth.google.com&#x2F;&quot;&gt;Google Earth&lt;&#x2F;a&gt; abierta en el móvil a la par que leía el libro, permitiéndome ubicar cada zona que iba mencionando Peláez. Eso hizo muy amena e interesante la lectura, siguiendo facilmente las localizaciones de las diferentes expediciones.&lt;&#x2F;p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;500_a%C3%B1os_de_frio.jpg&quot; alt=&quot;Portada del libro 500 años de frío, de Javier Peláez&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+  &lt;p class=&quot;image-footer&quot;&gt;500 años de frío, escrito por Javier Peláez&lt;&#x2F;p&gt;
+&lt;&#x2F;center&gt;
+&lt;p&gt;Y hasta aquí la inspiración de &quot;El mapa&quot;, me quedan artículos de explicaciones casi más largas que el propio relato. Espero que lo hayáis disfrutado y, mejor todavía, que hayáis aprendido algo nuevo.&lt;&#x2F;p&gt;
+&lt;p&gt;Tengo intención de escribir otro relato con estos personajes, con suerte tendré la oportunidad de darle forma antes de final de año.&lt;&#x2F;p&gt;
+&lt;p&gt;¡Nos vemos en el próximo artículo!&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>Qué me inspiró para escribir &#x27;Manual de teletransporte público, año 2097, versión 31.5.672&#x27;</title>
+        <published>2023-07-15T00:00:00+00:00</published>
+        <updated>2023-11-09T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Dani Sancas
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://danisancas.com/inspiracion-manual-teletransporte-publico/"/>
+        <id>https://danisancas.com/inspiracion-manual-teletransporte-publico/</id>
+        <content type="html" xml:base="https://danisancas.com/inspiracion-manual-teletransporte-publico/">&lt;p&gt;Hacía un par de meses que no actualizaba el blog, debido a múltiples circunstancias personales. Pero ya estoy encontrando tiempo y ganas de volver a escribir. Mientras dejo un tiempo para que vuelva la inspiración me dispongo a escribir el artículo en el que os contaré qué pasaba por mi cabeza al escribir el relato &lt;a href=&quot;https:&#x2F;&#x2F;danisancas.com&#x2F;manual-teletransporte-publico&#x2F;&quot;&gt;Manual de teletransporte público, año 2097, versión 31.5.672&lt;&#x2F;a&gt;. Si no lo tenéis muy fresco, os invito a releerlo.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;Todo empezó un día que volvía del gimnasio y pasaba por el parque Joan Miró en Barcelona. Este parque tiene 3 zonas bastante diferenciadas. Una es una parte baja de arena donde suele haber críos y jóvenes jugando, y algunas personas paseando al perro. Otra es una zona un poco más alta donde hay un par de explanadas de hierba donde mucha más gente deja a sus perros sueltos para que jueguen. Finalmente hay una tercera zona más alta donde hay una fuente (sí, aquí también hay perros bañándose) y gente haciendo algo de ejercicio (tipo yoga, bailes, etc).&lt;&#x2F;p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;parque_joan_miro_barcelona.jpg&quot; alt=&quot;Parque Joan Miró en Barcelona&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+  &lt;p class=&quot;image-footer&quot;&gt;La zona alta de hierba del parque Joan Miró, casualmente desierta en el momento de la foto.&lt;&#x2F;p&gt;
+&lt;&#x2F;center&gt;
+&lt;p&gt;Ese día concretamente me estaba fijando en la zona alta de hierba y, sinceramente, no me acuerdo de qué vi o qué me imaginé, pero visualicé una persona envuelta en el &lt;em&gt;huevo&lt;&#x2F;em&gt; que describo en el relato. Empecé a imaginar que ese huevo podría englobar algo de tierra y hierba debajo del sujeto, llevándosela consigo en caso de que el huevo desapareciera. Por asociación de ideas apareció el tema del teletransporte en mi cabeza, y a partir de ahí fui desarrollando el concepto de un servicio público de teletransporte que utilizara esa zona como &quot;estación&quot;.&lt;&#x2F;p&gt;
+&lt;p&gt;Por otro lado el tono pretendidamente serio pero casi cómico del manual debo decir que me vino inspirado principalmente por el &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;manuelbartual.com&#x2F;biotopia&quot;&gt;podcast Biotopía de Manuel Bartual&lt;&#x2F;a&gt;. En dicho podcast (que aprovecho para recomendar por lo original que es) se narran una serie de noticias de ciencia ficción, como si fueran los informativos de la radio o televisión de este país a día de hoy, mostrando situaciones cotidianas (a veces muy graves e importantes) con una seriedad muy humorística. Lo demás, como os podréis imaginar, fue surgiendo a medida que me puse a escribir.&lt;&#x2F;p&gt;
+&lt;p&gt;Y esto sería todo, amigos. Tengo un par de borradores de relatos cortos aparcados desde hace un tiempo, a ver si consigo darles salida durante este año y así los disfrutáis.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>Qué me inspiró para escribir &#x27;El primer viaje&#x27;</title>
+        <published>2023-01-21T00:00:00+00:00</published>
+        <updated>2023-11-09T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Dani Sancas
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://danisancas.com/inspiracion-el-primer-viaje/"/>
+        <id>https://danisancas.com/inspiracion-el-primer-viaje/</id>
+        <content type="html" xml:base="https://danisancas.com/inspiracion-el-primer-viaje/">&lt;p&gt;En este artículo os contaré qué pasaba por mi cabeza al escribir &lt;a href=&quot;https:&#x2F;&#x2F;danisancas.com&#x2F;el-primer-viaje&#x2F;&quot;&gt;El primer viaje&lt;&#x2F;a&gt;. Si no lo tenéis muy fresco, os invito a releerlo.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;h2 id=&quot;hablemos-de-crisis&quot;&gt;Hablemos de crisis&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;crisis-climatica&quot;&gt;Crisis climática&lt;&#x2F;h3&gt;
+&lt;p&gt;No es nada nuevo hablar de cómo el cambio climático avanza inexorablemente. Hace tiempo que dejó de ser un &lt;em&gt;posible&lt;&#x2F;em&gt; futuro para convertirse paulatinamente en nuestro presente. En mi trabajo manejamos cifras y datos relacionados con este tema (en mi equipo concretamente sobre la llamada &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;esg.tech&#x2F;glossary&#x2F;eu-taxonomy&#x2F;&quot;&gt;Taxonomía Europea&lt;&#x2F;a&gt;), y no es raro que se me ocurran escenarios donde dicho cambio climático haya avanzado lo suficiente como para mostrar un entorno irreconocible para nosotros a día de hoy.&lt;&#x2F;p&gt;
+&lt;p&gt;Dado este escenario me imaginaba un mundo diferente, probablemente mucho más árido e inhabitable. Un escenario donde, por ejemplo, el cultivo de café en zonas tropicales fuera imposible, y que quedara un único bastión en un lugar, a priori, impensable: Siberia. Dado que el buen café se cultiva a una altura considerable (a unos pocos miles de metros), y dando por hecho que la temperatura en ese lugar podría ser mucho más cálida en ese mundo distópico, sería algo perfectamente viable.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;crisis-financiera&quot;&gt;Crisis financiera&lt;&#x2F;h3&gt;
+&lt;p&gt;Como cada pocos años, en este nuevo año 2023 volvemos a sufrir inflación, encarecimiento a nivel de vida y, por supuesto, encarecimiento de los viajes o transporte en general. En este futuro distópico en el que los transportes son caros y, probablemente, los trans-oceánicos no sean precisamente sostenibles, podría esperarse que el precio fuera prohibitivo para el ciudadano medio.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;hablemos-de-tecnologia&quot;&gt;Hablemos de tecnología&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;certificados-y-trazabilidad&quot;&gt;Certificados y trazabilidad&lt;&#x2F;h3&gt;
+&lt;p&gt;Actualmente existe tecnología más que suficiente para trazar la procedencia y el diferente procesado al que se ha expuesto un producto. Sin ir más lejos la famosa tecnología BlockChain pretende servir para este propósito. Lástima que a día de hoy la práctica totalidad de su uso se destine a especular con monedas virtuales y NFTs (siempre con la sombra de la &lt;em&gt;estafa&lt;&#x2F;em&gt; acechando), lo cual le ha dado una fama realmente mala.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;big-data-y-programas-de-puntos&quot;&gt;Big Data y programas de puntos&lt;&#x2F;h3&gt;
+&lt;p&gt;Aunque pueda parecer sacado de un capítulo de Black Mirror (si no lo habéis visto lo recomiendo mucho: &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.imdb.com&#x2F;title&#x2F;tt5497778&#x2F;?ref_=ttep_ep1&quot;&gt;Black Mirror S03E01: Nosedive&lt;&#x2F;a&gt;), lo cierto es que China lleva ya unos años probando un sistema de puntos en el que premia el buen comportamiento ciudadano. Con la tecnología de hoy en día, lo único que nos separa de un modelo similar son las políticas de protección de privacidad. Cada vez parece menos distopía, ¿verdad?&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;lo-que-deliberadamente-no-cuento&quot;&gt;Lo que deliberadamente no cuento&lt;&#x2F;h2&gt;
+&lt;p&gt;Dado que no soy escritor como tal, y que todavía no tengo formado un estilo propio, poco puedo decir salvo que no me gusta describir de manera excesiva.&lt;&#x2F;p&gt;
+&lt;p&gt;En este micro relato no menciono el año en el que transcurre. Tampoco especifico qué tipo de transporte va a tomar la protagonista. Es más, el asistente que menciono no especifico si es humano o no. Con estas incógnitas invito a que sea el lector el que se haga su propia idea del mundo distópico del relato.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusión&lt;&#x2F;h2&gt;
+&lt;p&gt;Tengo la intención de seguir explicando qué me inspira para los relatos que vaya escribiendo. Si os ha parecido interesante o tenéis algún comentario, no dudéis en contactar conmigo. Estaré encantado de escuchar vuestra opinión. ¡Ah, y tomáos un buen café a mi salud! ☕&lt;&#x2F;p&gt;
+</content>
+    </entry>
+</feed>

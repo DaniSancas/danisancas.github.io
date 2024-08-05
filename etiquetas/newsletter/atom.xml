@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <title>Dani Sancas - Newsletter</title>
+    <subtitle>Website personal de Dani Sancas</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://danisancas.com/etiquetas/newsletter/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://danisancas.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-02-07T00:00:00+00:00</updated>
+    <id>https://danisancas.com/etiquetas/newsletter/atom.xml</id>
+    <entry xml:lang="es">
+        <title>Novedades: ¡Habemus newsletter!</title>
+        <published>2023-02-07T00:00:00+00:00</published>
+        <updated>2023-02-07T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Dani Sancas
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://danisancas.com/novedades-newsletter/"/>
+        <id>https://danisancas.com/novedades-newsletter/</id>
+        <content type="html" xml:base="https://danisancas.com/novedades-newsletter/">&lt;p&gt;¡Saludos, lectores&#x2F;as!&lt;&#x2F;p&gt;
+&lt;p&gt;La publicación de hoy no tiene que ver con relatos o reseñas, sino con una nueva característica de este sitio web: La posiblidad de suscribirse a una &lt;em&gt;newsletter&lt;&#x2F;em&gt; para recibir una notificación cada vez que haya una publicación nueva en este sitio web.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;La decisión de dar este paso ha sido debida a que el público de este sitio no tiene por qué ser necesariamente técnico. Aunque los informáticos generalmente optarían por usar el RSS&#x2F;Atom que se encuentra en el pie de cada página, no tiene por qué ser el caso del resto de los visitantes.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;cambia-algo-de-la-politica-de-privacidad&quot;&gt;¿Cambia algo de la política de privacidad?&lt;&#x2F;h3&gt;
+&lt;p&gt;Para navegar por el sitio web se mantiene todo como hasta ahora: No recojo datos de nadie, la navegación es libre y sin ataduras.&lt;&#x2F;p&gt;
+&lt;p&gt;Sin embargo, para inscribirse en la &lt;em&gt;newsletter&lt;&#x2F;em&gt; hay que aportar la dirección de email, lo mínimo indispensable para poder enviar un correo a los subscriptores (¿cómo si no? 😅)&lt;&#x2F;p&gt;
+&lt;p&gt;En cualquier caso, os invito a que leáis los detalles en la &lt;a href=&quot;https:&#x2F;&#x2F;danisancas.com&#x2F;privacidad&#x2F;&quot;&gt;Política de Privacidad&lt;&#x2F;a&gt; antes de decidir si os apetece suscribiros. En caso afirmativo, tenéis el enlace al formulario de inscripción al final de cualquier publicación del sitio web.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+</feed>
