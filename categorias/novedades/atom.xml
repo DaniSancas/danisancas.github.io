@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <title>Dani Sancas - Novedades</title>
+    <subtitle>Website personal de Dani Sancas</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://danisancas.com/categorias/novedades/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://danisancas.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-06T00:00:00+00:00</updated>
+    <id>https://danisancas.com/categorias/novedades/atom.xml</id>
+    <entry xml:lang="es">
+        <title>Novedades: Nueva página &#x27;ahora&#x27;</title>
+        <published>2024-02-06T00:00:00+00:00</published>
+        <updated>2024-02-06T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Dani Sancas
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://danisancas.com/novedades-ahora/"/>
+        <id>https://danisancas.com/novedades-ahora/</id>
+        <content type="html" xml:base="https://danisancas.com/novedades-ahora/">&lt;p&gt;Hoy os traigo una meta-publicación.&lt;&#x2F;p&gt;
+&lt;p&gt;Ultimamente he visto que algunos blogs y sitios web personales añaden una página &lt;em&gt;now&lt;&#x2F;em&gt; (o &lt;em&gt;ahora&lt;&#x2F;em&gt; en nuestra lengua) para hacer un pequeño resumen acerca de aquellos temas en los que están enfocados actualmente, y que van actualizando cuando cambian sus prioridades o intereses.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;He decidido hacer lo propio y crear la página &lt;a href=&quot;https:&#x2F;&#x2F;danisancas.com&#x2F;ahora&#x2F;&quot;&gt;Ahora&lt;&#x2F;a&gt; para tal fin. También podéis encontrar el enlace en el menú superior.&lt;&#x2F;p&gt;
+&lt;p&gt;Ya sabéis que me gusta citar mis fuentes, así que os dejo el enlace a la página que ha influido en dicha decisión: &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;nownownow.com&#x2F;about&quot;&gt;nownownow.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;¡Nos leemos por la red!&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>Novedades: ¡Habemus barra de búsqueda!</title>
+        <published>2023-10-27T00:00:00+00:00</published>
+        <updated>2023-10-27T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Dani Sancas
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://danisancas.com/novedades-barra-busqueda/"/>
+        <id>https://danisancas.com/novedades-barra-busqueda/</id>
+        <content type="html" xml:base="https://danisancas.com/novedades-barra-busqueda/">&lt;p&gt;¡Saludos, lectores&#x2F;as!&lt;&#x2F;p&gt;
+&lt;p&gt;Para celebrar la 10ª publicación de este blog, he decidido que esta entrada no será sobre relatos, sino sobre una nueva característica de este sitio web: La posiblidad de buscar publicaciones mediante palabras clave de una manera sencilla.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;Podéis encontrar dicha característica a la derecha del menú superior. Si comenzáis a escribir alguna palabra enseguida veréis aquellas publicaciones que la contienen. Si escribís más de un término de búsqueda, aparecerán las publicaciones que contengan alguna de las palabras (no necesariamente todas a la vez). Si después pincháis en la lupa o presionáis &lt;em&gt;Enter&lt;&#x2F;em&gt; os mostrará la lista en una vista más grande para que podáis explorar los resultados más fácilmente.&lt;&#x2F;p&gt;
+&lt;p&gt;Esto es todo, amigos. ¡Espero que os resulte útil!&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>Novedades: ¡Habemus newsletter!</title>
+        <published>2023-02-07T00:00:00+00:00</published>
+        <updated>2023-02-07T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Dani Sancas
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://danisancas.com/novedades-newsletter/"/>
+        <id>https://danisancas.com/novedades-newsletter/</id>
+        <content type="html" xml:base="https://danisancas.com/novedades-newsletter/">&lt;p&gt;¡Saludos, lectores&#x2F;as!&lt;&#x2F;p&gt;
+&lt;p&gt;La publicación de hoy no tiene que ver con relatos o reseñas, sino con una nueva característica de este sitio web: La posiblidad de suscribirse a una &lt;em&gt;newsletter&lt;&#x2F;em&gt; para recibir una notificación cada vez que haya una publicación nueva en este sitio web.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;La decisión de dar este paso ha sido debida a que el público de este sitio no tiene por qué ser necesariamente técnico. Aunque los informáticos generalmente optarían por usar el RSS&#x2F;Atom que se encuentra en el pie de cada página, no tiene por qué ser el caso del resto de los visitantes.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;cambia-algo-de-la-politica-de-privacidad&quot;&gt;¿Cambia algo de la política de privacidad?&lt;&#x2F;h3&gt;
+&lt;p&gt;Para navegar por el sitio web se mantiene todo como hasta ahora: No recojo datos de nadie, la navegación es libre y sin ataduras.&lt;&#x2F;p&gt;
+&lt;p&gt;Sin embargo, para inscribirse en la &lt;em&gt;newsletter&lt;&#x2F;em&gt; hay que aportar la dirección de email, lo mínimo indispensable para poder enviar un correo a los subscriptores (¿cómo si no? 😅)&lt;&#x2F;p&gt;
+&lt;p&gt;En cualquier caso, os invito a que leáis los detalles en la &lt;a href=&quot;https:&#x2F;&#x2F;danisancas.com&#x2F;privacidad&#x2F;&quot;&gt;Política de Privacidad&lt;&#x2F;a&gt; antes de decidir si os apetece suscribiros. En caso afirmativo, tenéis el enlace al formulario de inscripción al final de cualquier publicación del sitio web.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+</feed>

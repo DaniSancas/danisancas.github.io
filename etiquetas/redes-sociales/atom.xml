@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <title>Dani Sancas - Redes sociales</title>
+    <subtitle>Website personal de Dani Sancas</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://danisancas.com/etiquetas/redes-sociales/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://danisancas.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-01-11T00:00:00+00:00</updated>
+    <id>https://danisancas.com/etiquetas/redes-sociales/atom.xml</id>
+    <entry xml:lang="es">
+        <title>Hola mundo</title>
+        <published>2023-01-07T00:00:00+00:00</published>
+        <updated>2023-01-11T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Dani Sancas
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://danisancas.com/hola-mundo/"/>
+        <id>https://danisancas.com/hola-mundo/</id>
+        <content type="html" xml:base="https://danisancas.com/hola-mundo/">&lt;p&gt;¡Hola, bienvenidos&#x2F;as a mi sitio web! Me presento, soy Dani Sancas. Desarrollador de software de profesión, actualmente trabajo en la rama de la ingeniería del dato.&lt;&#x2F;p&gt;
+&lt;p&gt;El motivo de comenzar este blog personal es debido a dos motivos:&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;ul&gt;
+&lt;li&gt;Gracias a la inspiración de este sitio web en tono humorístico &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;startafuckingblog.com&quot;&gt;sobre los motivos para empezar un blog&lt;&#x2F;a&gt;, (creado por &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;kevquirk.com&#x2F;&quot;&gt;Kev Quirk&lt;&#x2F;a&gt;).&lt;&#x2F;li&gt;
+&lt;li&gt;Debido al hastío que me llevan provocando las redes sociales y el rumbo hacia el que van todas en los últimos tiempos. El mismo autor de antes tiene otro sitio web en tono humorístico &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;thewebisfucked.com&#x2F;&quot;&gt;sobre los motivos por los que la web está rota&lt;&#x2F;a&gt;. &lt;strong&gt;Nota&lt;&#x2F;strong&gt;: He editado mi artículo original para añadir este último enlace, que no lo conocía antes y refleja muy bien lo que pienso.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Hoy en día las redes sociales se han convertido en una máquina de mostrar publicidad, donde todo está pensado para mantenerte amorrado a la pantalla y que sigas deslizando el dedo por la pantalla mientras ves contenido al que (a priori) no te has suscrito. Plagado de &lt;em&gt;influencers&lt;&#x2F;em&gt; con una fijación insana por volverse &lt;em&gt;virales&lt;&#x2F;em&gt; y explotar al máximo el &lt;em&gt;engagement&lt;&#x2F;em&gt; con su audiencia. Y sin pasar por alto las batallas campales que libran entre ellos de manera directa o indirecta, con &lt;em&gt;pseudo-menciones&lt;&#x2F;em&gt; sobre «lo que ha dicho» uno o «lo que ha dejado de decir» el otro.&lt;&#x2F;p&gt;
+&lt;p&gt;Por desgracia, es muy difícil encontrar una red social en la que únicamente veas un contenido al que te has suscrito de manera específica. A día de hoy sólo podría nombrar &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;joinmastodon.org&#x2F;&quot;&gt;Mastodon&lt;&#x2F;a&gt; y al resto de redes del &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;fediverse.party&#x2F;&quot;&gt;Fediverso&lt;&#x2F;a&gt; como redes sociales aptas para una correcta salud mental.&lt;&#x2F;p&gt;
+&lt;p&gt;Así que, a medida que voy menguando mi presencia en las pocas redes sociales que me quedan, he decidido abrir un blog (sí, en pleno 2023, cuando la blogosfera parece ya muerta) donde expresarme y que podáis leerme libres de publicidad, sin &lt;em&gt;click-baits&lt;&#x2F;em&gt;, sin buscar &lt;em&gt;engagement&lt;&#x2F;em&gt;, sin ninguna pretensión. Para que leáis lo que queráis, cuando queráis y como queráis (guiño para aquellos que sigan usando &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;wikipedia.org&#x2F;wiki&#x2F;Atom_(web_standard)&quot;&gt;Atom&lt;&#x2F;a&gt;&#x2F;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;wikipedia.org&#x2F;wiki&#x2F;RSS&quot;&gt;RSS&lt;&#x2F;a&gt;)&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;¿Sobre qué voy a escribir?&lt;&#x2F;strong&gt; De momento no lo tengo claro. Lo más problable es que utilice este espacio para dar rienda suelta a la (poca) creatividad que tengo. Siempre y cuando tenga tiempo y ganas, sin presiones por cumplir con una innecesaria (y auto impuesta) cuota de publicaciones.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+</feed>
