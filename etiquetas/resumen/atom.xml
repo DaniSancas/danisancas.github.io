@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <title>Dani Sancas - Resumen</title>
+    <subtitle>Website personal de Dani Sancas</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://danisancas.com/etiquetas/resumen/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://danisancas.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-01-07T00:00:00+00:00</updated>
+    <id>https://danisancas.com/etiquetas/resumen/atom.xml</id>
+    <entry xml:lang="es">
+        <title>Resumen del año 2023</title>
+        <published>2024-01-07T00:00:00+00:00</published>
+        <updated>2024-01-07T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Dani Sancas
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://danisancas.com/resumen-2023/"/>
+        <id>https://danisancas.com/resumen-2023/</id>
+        <content type="html" xml:base="https://danisancas.com/resumen-2023/">&lt;p&gt;¡Saludos, lectores&#x2F;as!&lt;&#x2F;p&gt;
+&lt;p&gt;Hace unos días caí en la cuenta de que se acercaba el primer aniversario de este mi querido blog y pensé en &lt;em&gt;celebrarlo&lt;&#x2F;em&gt; de alguna manera no especialmente pretenciosa. Así que como primera entrada del año 2024, qué mejor que un resumen personal de lo acontecido hasta la fecha (quizá haya fallado en mi misión de no escribir nada pretencioso, juzguen vuesas mercedes).&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;La verdad es que el 2023 ha estado cargado de cambios, muchos de ellos forzados por sucesos para nada agradables.&lt;&#x2F;p&gt;
+&lt;p&gt;La primera mitad del año fue sin duda la más dura, protagonizada por problemas de salud en mi familia y tristes noticias derivadas de ello. Esto se me juntó con una época desagradable en el trabajo, con momentos incómodos y desavenencias con alguna persona del entorno laboral. Y sumando, para más inri, la insatisfacción en uno de los deportes que venía practicando desde hacía más de 2 años (concretamente la frustración por la desconexión entre el esfuerzo dedicado y los resultados obtenidos en esgrima). Deporte en el que quizá estaba poniendo unas expectativas poco realistas y que no supe gestionar debido al cúmulo de todo lo mencionado anteriormente.&lt;&#x2F;p&gt;
+&lt;p&gt;Por suerte no todo fueron malas noticias durante estos primeros meses del año. Me creé una cuenta en el servidor de Mastodon &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;tkz.one&#x2F;@sancas&quot;&gt;TKZ&lt;&#x2F;a&gt; a mediados de enero y creo que es de las mejores decisiones que he podido tomar en cuanto a redes sociales se refiere. Ya era hora de aterrizar en un lugar sin toxicidad, sin publicidad, sin algoritmos intrusivos. En definitiva, una red social en la que poder compartir tus aficiones y pareceres con gente afín, sin más pretensiones que pasar el rato en comunidad. Ya había usado Mastodon anteriormente (tengo otras cuentas en otras instancias), pero sin duda aquí es donde más tracción y compañerismo he encontrado.&lt;&#x2F;p&gt;
+&lt;p&gt;Tampoco se me olvida mencionar mi re-descubrimiento de los videojuegos al comprar una &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.nintendo.es&#x2F;Hardware&#x2F;Familia-Nintendo-Switch&#x2F;Nintendo-Switch-Modelo-OLED&#x2F;Nintendo-Switch-Modelo-OLED-2000984.html&quot;&gt;Nintendo Switch OLED&lt;&#x2F;a&gt;. La verdad es que fue una decisión de la que no me arrepiento en absoluto (a pesar del precio de la consola y los juegos, nada baratos). En el pasado solo llegué a tener una GameBoy Color durante mi adolescencia, y el resto de juegos los he jugado históricamente en el ordenador. Tener la segunda consola de mi vida a estas alturas ha sido una fructífera inversión, muy contento con la experiencia, aunque no pueda estar todo el día amorrado a la pantalla (ojalá).&lt;&#x2F;p&gt;
+&lt;p&gt;Para rematar la primera mitad de año también tuvimos una mudanza. La parte negativa es el estrés derivado de tal acción, que siempre está lleno de incertidumbre, gastos y prisas. La parte positiva es que fue una mudanza para bien, lo cual siempre es un alivio.&lt;&#x2F;p&gt;
+&lt;p&gt;A estas alturas, ya en verano, casi con la firme convicción de que no me apetecía seguir con esgrima de momento, retomé otro deporte que tenía abandonado: salir a trotar. La elección de este deporte no fue al azar, ya que es un deporte individual que me permite marcarme mi propio ritmo (importante lo de no tener un adversario delante que te lo ponga especialmente difícil) y que puede ser un buen complemento para el entrenamiento de fuerza e hipertrofia en el gimnasio que practico ya desde hace años. Fui mejorando poco a poco (con mis baches por querer mejorar más rápido de lo que mi cuerpo admitía, muy típico en mí) y me permitió correr una 5K en noviembre superando mis marcas de hace años. La verdad es que me gustó esta experiencia de preparar una carrera durante unos 5 meses, y que aproveché para complementarla con un nutricionista deportivo que ya había contratado anteriormente, lo cual también ayudó a simplificar las cosas.&lt;&#x2F;p&gt;
+&lt;p&gt;La segunda mitad de año podría decirse que ha transcurrido sin muchas novedades. Dejé un poco de lado lo de escribir relatos en este blog (prometo que lo retomaré cuando vuelva la inspiración), pero desde hace un par de semanas mi atención está volcada en retomar la música practicando con la &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;es.wikipedia.org&#x2F;wiki&#x2F;Ocarina&quot;&gt;ocarina&lt;&#x2F;a&gt;. Esto último la verdad es que me sorprendió hasta a mí, pero durante la primera semana de Navidades se me antojó desempolvar una ocarina del Zelda que tenía guardada, y me gustó tanto la experiencia de tocar melodías facilonas de videojuegos o películas que me auto-regalé una ocarina un poco más decente, cuya foto os dejo a continuación.&lt;&#x2F;p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;ocarina_night_by_noble.jpg&quot; alt=&quot;Ocarina Night by-Noble Alto C de 12 agujeros&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+  &lt;p class=&quot;image-footer&quot;&gt;Ocarina Night by-Noble Alto C de 12 agujeros&lt;&#x2F;p&gt;
+&lt;&#x2F;center&gt;
+&lt;p&gt;La ocarina viene a sustituir una espinita (u obsesión, depende de cómo enfoquemos este tema) que arrastro desde hace meses con querer aprender a tocar el clarinete. Sé que a día de hoy sería algo poco productivo: no dispongo de mucho tiempo, debería apuntarme a un conservatorio, adquirir un instrumento decente (no son nada baratos), comprometerme conmigo mismo a practicar a menudo y no desesperarme cuando no me salgan las cosas como yo quiera. Me persigue la sensación de que molestaría mucho a los vecinos (quizá incluso con la ocarina lo esté haciendo ya), pero en definitiva no estoy todavía seguro de dar ese paso. Quizá en un futuro...&lt;&#x2F;p&gt;
+&lt;p&gt;Este año toca disfrutar de una mayor estabilidad a varios niveles, y de relajarse con el ocio, la música y los videojuegos. La verdad es que el 2024 tiene mejor pinta que el anterior, esperemos que así sea.&lt;&#x2F;p&gt;
+&lt;p&gt;¡Un saludo a todos&#x2F;as y que os sea leve la cuesta de enero!&lt;&#x2F;p&gt;
+</content>
+    </entry>
+</feed>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <title>Dani Sancas - Ahora</title>
+    <subtitle>Website personal de Dani Sancas</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://danisancas.com/etiquetas/ahora/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://danisancas.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-06T00:00:00+00:00</updated>
+    <id>https://danisancas.com/etiquetas/ahora/atom.xml</id>
+    <entry xml:lang="es">
+        <title>Novedades: Nueva página &#x27;ahora&#x27;</title>
+        <published>2024-02-06T00:00:00+00:00</published>
+        <updated>2024-02-06T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Dani Sancas
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://danisancas.com/novedades-ahora/"/>
+        <id>https://danisancas.com/novedades-ahora/</id>
+        <content type="html" xml:base="https://danisancas.com/novedades-ahora/">&lt;p&gt;Hoy os traigo una meta-publicación.&lt;&#x2F;p&gt;
+&lt;p&gt;Ultimamente he visto que algunos blogs y sitios web personales añaden una página &lt;em&gt;now&lt;&#x2F;em&gt; (o &lt;em&gt;ahora&lt;&#x2F;em&gt; en nuestra lengua) para hacer un pequeño resumen acerca de aquellos temas en los que están enfocados actualmente, y que van actualizando cuando cambian sus prioridades o intereses.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;He decidido hacer lo propio y crear la página &lt;a href=&quot;https:&#x2F;&#x2F;danisancas.com&#x2F;ahora&#x2F;&quot;&gt;Ahora&lt;&#x2F;a&gt; para tal fin. También podéis encontrar el enlace en el menú superior.&lt;&#x2F;p&gt;
+&lt;p&gt;Ya sabéis que me gusta citar mis fuentes, así que os dejo el enlace a la página que ha influido en dicha decisión: &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;nownownow.com&#x2F;about&quot;&gt;nownownow.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;¡Nos leemos por la red!&lt;&#x2F;p&gt;
+</content>
+    </entry>
+</feed>

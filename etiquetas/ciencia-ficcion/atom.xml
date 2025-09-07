@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <title>Dani Sancas - Ciencia ficción</title>
+    <subtitle>Website personal de Dani Sancas</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://danisancas.com/etiquetas/ciencia-ficcion/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://danisancas.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-11-09T00:00:00+00:00</updated>
+    <id>https://danisancas.com/etiquetas/ciencia-ficcion/atom.xml</id>
+    <entry xml:lang="es">
+        <title>Qué me inspiró para escribir &#x27;Manual de teletransporte público, año 2097, versión 31.5.672&#x27;</title>
+        <published>2023-07-15T00:00:00+00:00</published>
+        <updated>2023-11-09T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Dani Sancas
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://danisancas.com/inspiracion-manual-teletransporte-publico/"/>
+        <id>https://danisancas.com/inspiracion-manual-teletransporte-publico/</id>
+        <content type="html" xml:base="https://danisancas.com/inspiracion-manual-teletransporte-publico/">&lt;p&gt;Hacía un par de meses que no actualizaba el blog, debido a múltiples circunstancias personales. Pero ya estoy encontrando tiempo y ganas de volver a escribir. Mientras dejo un tiempo para que vuelva la inspiración me dispongo a escribir el artículo en el que os contaré qué pasaba por mi cabeza al escribir el relato &lt;a href=&quot;https:&#x2F;&#x2F;danisancas.com&#x2F;manual-teletransporte-publico&#x2F;&quot;&gt;Manual de teletransporte público, año 2097, versión 31.5.672&lt;&#x2F;a&gt;. Si no lo tenéis muy fresco, os invito a releerlo.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;Todo empezó un día que volvía del gimnasio y pasaba por el parque Joan Miró en Barcelona. Este parque tiene 3 zonas bastante diferenciadas. Una es una parte baja de arena donde suele haber críos y jóvenes jugando, y algunas personas paseando al perro. Otra es una zona un poco más alta donde hay un par de explanadas de hierba donde mucha más gente deja a sus perros sueltos para que jueguen. Finalmente hay una tercera zona más alta donde hay una fuente (sí, aquí también hay perros bañándose) y gente haciendo algo de ejercicio (tipo yoga, bailes, etc).&lt;&#x2F;p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;parque_joan_miro_barcelona.jpg&quot; alt=&quot;Parque Joan Miró en Barcelona&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+  &lt;p class=&quot;image-footer&quot;&gt;La zona alta de hierba del parque Joan Miró, casualmente desierta en el momento de la foto.&lt;&#x2F;p&gt;
+&lt;&#x2F;center&gt;
+&lt;p&gt;Ese día concretamente me estaba fijando en la zona alta de hierba y, sinceramente, no me acuerdo de qué vi o qué me imaginé, pero visualicé una persona envuelta en el &lt;em&gt;huevo&lt;&#x2F;em&gt; que describo en el relato. Empecé a imaginar que ese huevo podría englobar algo de tierra y hierba debajo del sujeto, llevándosela consigo en caso de que el huevo desapareciera. Por asociación de ideas apareció el tema del teletransporte en mi cabeza, y a partir de ahí fui desarrollando el concepto de un servicio público de teletransporte que utilizara esa zona como &quot;estación&quot;.&lt;&#x2F;p&gt;
+&lt;p&gt;Por otro lado el tono pretendidamente serio pero casi cómico del manual debo decir que me vino inspirado principalmente por el &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;manuelbartual.com&#x2F;biotopia&quot;&gt;podcast Biotopía de Manuel Bartual&lt;&#x2F;a&gt;. En dicho podcast (que aprovecho para recomendar por lo original que es) se narran una serie de noticias de ciencia ficción, como si fueran los informativos de la radio o televisión de este país a día de hoy, mostrando situaciones cotidianas (a veces muy graves e importantes) con una seriedad muy humorística. Lo demás, como os podréis imaginar, fue surgiendo a medida que me puse a escribir.&lt;&#x2F;p&gt;
+&lt;p&gt;Y esto sería todo, amigos. Tengo un par de borradores de relatos cortos aparcados desde hace un tiempo, a ver si consigo darles salida durante este año y así los disfrutáis.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>Manual de teletransporte público, año 2097, versión 31.5.672</title>
+        <published>2023-05-02T00:00:00+00:00</published>
+        <updated>2023-11-09T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Dani Sancas
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://danisancas.com/manual-teletransporte-publico/"/>
+        <id>https://danisancas.com/manual-teletransporte-publico/</id>
+        <content type="html" xml:base="https://danisancas.com/manual-teletransporte-publico/">&lt;p&gt;Por la presente, se hace saber a todos los residentes y visitantes del planeta Tierra que se ha publicado una nueva revisión del Manual de Teletransporte Público. Dicha revisión contiene actualizaciones referentes a las políticas de Corta y Media Distancia, siendo afectadas por una nueva obligación dentro del marco del uso de &lt;em&gt;DTP&lt;&#x2F;em&gt; (Dispositivos de Teletransporte Personal). A partir de la fecha de emisión de esta revisión, se habilitará el uso de las nuevas Estaciones de Teletransporte de Corta y Media Distancia, de obligada utilización en todos los núcleos urbanos.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;Para explicar la importancia del uso de dichas Estaciones, especialmente para nuevos usuarios residentes y&#x2F;o visitantes del planeta Tierra, se proporcionará a continuación información básica sobre el funcionamiento de dicho Servicio Público, dejando patente la importancia de estas nuevas instalaciones.&lt;&#x2F;p&gt;
+&lt;p&gt;El &lt;em&gt;DTP&lt;&#x2F;em&gt; (Dispositivo de Teletransporte Personal) que todo ciudadano residente o visitante del planeta Tierra puede alquilar en cualquier Oficina del Ministerio Global de Transportes, permite teletransportarse a una distancia comprendida entre 253 centímetros y 179,56528 kilómetros (17.956.528 centímetros). Para distancias mayores deberán acudir a su telepuerto más cercano.&lt;&#x2F;p&gt;
+&lt;p&gt;La acción de teletransporte, independientemente de la distancia recorrida, genera un campo de fuerza Huebner-Volkova (conocido comunmente como &lt;em&gt;HueVo&lt;&#x2F;em&gt; por la ciudadanía, dada su forma ovalada que cubre al pasajero). Dicho campo de fuerza Huebner-Volkova tiene un margen de seguridad de 0.735 centímetros más allá del los límites del cuerpo del pasajero, para evitar cercenamientos por desajustes en el cálculo o movimientos bruscos durante la &lt;em&gt;FDC&lt;&#x2F;em&gt; (Fase de Desintegración Corporal). A su vez durante la &lt;em&gt;FRC&lt;&#x2F;em&gt; (Fase de Reintegración Corporal) se calculan 8.398 centímetros de altura sobre el suelo en el destino, provocando un aterrizaje suspendido en el aire para evitar que el pasajero se reintegre con algún miembro inferior fusionado al suelo.&lt;&#x2F;p&gt;
+&lt;p&gt;Dichos márgenes de seguridad se introdujeron en Octubre de 2096, evitando así más de 83 millones de lesiones anuales (según estimaciones del ministerio), produciéndose por otro lado una casi desdeñable cifra de 23.801 lesiones al aterrizar en destino, mayormente torceduras de tobillo. A pesar de la gran noticia para la salud general de la ciudadanía, se introdujo un efecto colateral que se ha hecho patente a lo largo de estos meses dada la adopción masiva del &lt;em&gt;DTP&lt;&#x2F;em&gt; por parte de la población.&lt;&#x2F;p&gt;
+&lt;p&gt;Se han reportado en los últimos meses más de 700 billones de pequeños socavones en todo el planeta, producto del mencionado margen de seguridad, conllevando a un número casi similar de denuncias que amenaza con colapsar el Sistema Automático de Resolución de Demandas Civiles.&lt;&#x2F;p&gt;
+&lt;p&gt;Por lo tanto, para evitarse males mayores para con el sistema legal de este nuestro planeta (y para evitar un acelerado deterioro de las vías públicas y locales privados), se han diseñado unas áreas especialmente designadas para actuar como Estaciones de Teletransporte de Corta y Media Distancia. Dichas áreas constan de un suelo cubierto de una gruesa capa de arena (comunmente conocidos como &lt;em&gt;TeleAreneros&lt;&#x2F;em&gt;) que se irán rellenando horariamente por empleados a sueldo del Ministerio de Vías Públicas y Áreas Recreativas. Se espera también que la base de arena de estas estaciones ayude a amortiguar el aterrizaje en destino, con la esperanza de disminuir casi a 0 las lesiones por aterrizaje suspendido en el aire.&lt;&#x2F;p&gt;
+&lt;p&gt;Desde este pasado lunes dispone de una Estación a no más de 250 metros de distancia dentro de los límites de cualquier municipio. Esta nueva revisión del Manual de Teletransporte Público (versión 31.5.672) establece que el uso de estas nuevas Estaciones de Teletransporte de Corta y Media Distancia es &lt;strong&gt;GRATUITO&lt;&#x2F;strong&gt; y &lt;strong&gt;OBLIGATORIO&lt;&#x2F;strong&gt; en cualquier núcleo urbano del planeta Tierra.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Nota&lt;&#x2F;strong&gt;: si te ha gustado, te invito a que leas &lt;a href=&quot;https:&#x2F;&#x2F;danisancas.com&#x2F;inspiracion-manual-teletransporte-publico&#x2F;&quot;&gt;Qué me inspiró para escribir &#x27;Manual de teletransporte público, año 2097, versión 31.5.672&#x27;&lt;&#x2F;a&gt;, donde repaso las ideas que me rondaban para escribir este micro-relato.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+    </entry>
+</feed>

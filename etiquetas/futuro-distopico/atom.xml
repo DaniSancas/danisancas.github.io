@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <title>Dani Sancas - Futuro distópico</title>
+    <subtitle>Website personal de Dani Sancas</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://danisancas.com/etiquetas/futuro-distopico/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://danisancas.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-11-09T00:00:00+00:00</updated>
+    <id>https://danisancas.com/etiquetas/futuro-distopico/atom.xml</id>
+    <entry xml:lang="es">
+        <title>Qué me inspiró para escribir &#x27;El primer viaje&#x27;</title>
+        <published>2023-01-21T00:00:00+00:00</published>
+        <updated>2023-11-09T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Dani Sancas
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://danisancas.com/inspiracion-el-primer-viaje/"/>
+        <id>https://danisancas.com/inspiracion-el-primer-viaje/</id>
+        <content type="html" xml:base="https://danisancas.com/inspiracion-el-primer-viaje/">&lt;p&gt;En este artículo os contaré qué pasaba por mi cabeza al escribir &lt;a href=&quot;https:&#x2F;&#x2F;danisancas.com&#x2F;el-primer-viaje&#x2F;&quot;&gt;El primer viaje&lt;&#x2F;a&gt;. Si no lo tenéis muy fresco, os invito a releerlo.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;h2 id=&quot;hablemos-de-crisis&quot;&gt;Hablemos de crisis&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;crisis-climatica&quot;&gt;Crisis climática&lt;&#x2F;h3&gt;
+&lt;p&gt;No es nada nuevo hablar de cómo el cambio climático avanza inexorablemente. Hace tiempo que dejó de ser un &lt;em&gt;posible&lt;&#x2F;em&gt; futuro para convertirse paulatinamente en nuestro presente. En mi trabajo manejamos cifras y datos relacionados con este tema (en mi equipo concretamente sobre la llamada &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;esg.tech&#x2F;glossary&#x2F;eu-taxonomy&#x2F;&quot;&gt;Taxonomía Europea&lt;&#x2F;a&gt;), y no es raro que se me ocurran escenarios donde dicho cambio climático haya avanzado lo suficiente como para mostrar un entorno irreconocible para nosotros a día de hoy.&lt;&#x2F;p&gt;
+&lt;p&gt;Dado este escenario me imaginaba un mundo diferente, probablemente mucho más árido e inhabitable. Un escenario donde, por ejemplo, el cultivo de café en zonas tropicales fuera imposible, y que quedara un único bastión en un lugar, a priori, impensable: Siberia. Dado que el buen café se cultiva a una altura considerable (a unos pocos miles de metros), y dando por hecho que la temperatura en ese lugar podría ser mucho más cálida en ese mundo distópico, sería algo perfectamente viable.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;crisis-financiera&quot;&gt;Crisis financiera&lt;&#x2F;h3&gt;
+&lt;p&gt;Como cada pocos años, en este nuevo año 2023 volvemos a sufrir inflación, encarecimiento a nivel de vida y, por supuesto, encarecimiento de los viajes o transporte en general. En este futuro distópico en el que los transportes son caros y, probablemente, los trans-oceánicos no sean precisamente sostenibles, podría esperarse que el precio fuera prohibitivo para el ciudadano medio.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;hablemos-de-tecnologia&quot;&gt;Hablemos de tecnología&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;certificados-y-trazabilidad&quot;&gt;Certificados y trazabilidad&lt;&#x2F;h3&gt;
+&lt;p&gt;Actualmente existe tecnología más que suficiente para trazar la procedencia y el diferente procesado al que se ha expuesto un producto. Sin ir más lejos la famosa tecnología BlockChain pretende servir para este propósito. Lástima que a día de hoy la práctica totalidad de su uso se destine a especular con monedas virtuales y NFTs (siempre con la sombra de la &lt;em&gt;estafa&lt;&#x2F;em&gt; acechando), lo cual le ha dado una fama realmente mala.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;big-data-y-programas-de-puntos&quot;&gt;Big Data y programas de puntos&lt;&#x2F;h3&gt;
+&lt;p&gt;Aunque pueda parecer sacado de un capítulo de Black Mirror (si no lo habéis visto lo recomiendo mucho: &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.imdb.com&#x2F;title&#x2F;tt5497778&#x2F;?ref_=ttep_ep1&quot;&gt;Black Mirror S03E01: Nosedive&lt;&#x2F;a&gt;), lo cierto es que China lleva ya unos años probando un sistema de puntos en el que premia el buen comportamiento ciudadano. Con la tecnología de hoy en día, lo único que nos separa de un modelo similar son las políticas de protección de privacidad. Cada vez parece menos distopía, ¿verdad?&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;lo-que-deliberadamente-no-cuento&quot;&gt;Lo que deliberadamente no cuento&lt;&#x2F;h2&gt;
+&lt;p&gt;Dado que no soy escritor como tal, y que todavía no tengo formado un estilo propio, poco puedo decir salvo que no me gusta describir de manera excesiva.&lt;&#x2F;p&gt;
+&lt;p&gt;En este micro relato no menciono el año en el que transcurre. Tampoco especifico qué tipo de transporte va a tomar la protagonista. Es más, el asistente que menciono no especifico si es humano o no. Con estas incógnitas invito a que sea el lector el que se haga su propia idea del mundo distópico del relato.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusión&lt;&#x2F;h2&gt;
+&lt;p&gt;Tengo la intención de seguir explicando qué me inspira para los relatos que vaya escribiendo. Si os ha parecido interesante o tenéis algún comentario, no dudéis en contactar conmigo. Estaré encantado de escuchar vuestra opinión. ¡Ah, y tomáos un buen café a mi salud! ☕&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>El primer viaje</title>
+        <published>2023-01-14T00:00:00+00:00</published>
+        <updated>2023-11-09T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Dani Sancas
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://danisancas.com/el-primer-viaje/"/>
+        <id>https://danisancas.com/el-primer-viaje/</id>
+        <content type="html" xml:base="https://danisancas.com/el-primer-viaje/">&lt;p&gt;Elisabeth estaba sentada esperando a embarcar en el transporte. Miraba en derredor con cierto nerviosismo y mucha curiosidad. Después de 11 años de duro trabajo y un comportamiento ciudadano ejemplar, según los estándares del Gobierno, había llegado a adquirir la puntuación &lt;strong&gt;A+&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;Dicha puntuación conllevaba una serie de ventajas, entre ellas un generoso descuento a la hora de realizar viajes trans-oceánicos. Se había preocupado de ir ahorrando a lo largo del tiempo y finalmente consiguió los &lt;em&gt;378.749,99&lt;&#x2F;em&gt; créditos que costaba el billete, toda una ganga si lo comparáramos con el precio habitual sin aquel merecido descuento.&lt;&#x2F;p&gt;
+&lt;p&gt;Por fin iba a viajar, ¡era la primera de su familia en hacerlo! Se sentía ansiosa imaginando cómo sería la travesía, pero de pronto algo la sacó de sus pensamientos. Un asistente recorría la sección de pasajeros con puntuación &lt;strong&gt;A+&lt;&#x2F;strong&gt; ofreciendo bebidas y refrigerios. Enseguida le llamó la atención que ofrecieran &quot;Café de Siberia&quot; a un precio no demasiado alto. Nunca había tenido la oportunidad de comprar un café que no fuera artificial. El hecho de que solo quedara Siberia como único productor mundial hacía que su disponibilidad fuera muy limitada, y acompañado de un precio prohibitivo para la mayoría de la gente. «¿Será auténtico?», se preguntó.&lt;&#x2F;p&gt;
+&lt;p&gt;Cuando el asistente llegó a su altura, Elisabeth escaneó el código del café con su dispositivo personal. Desde que se aprobaron todas aquellas leyes de la &lt;strong&gt;IV Regulación&lt;&#x2F;strong&gt; hacía unos años, escanear un producto antes de adquirirlo era lo más sensato para evitar engaños. El escaner mostró los certificados del producto y los datos de la trazabilidad desde su lugar de origen hasta aquel mismo sitio. «Sí que parece auténtico», concluyó, y decidió completar la transacción.&lt;&#x2F;p&gt;
+&lt;p&gt;Degustó con calma la bebida. No sabría decir si era artificial o no, pero desde luego que no se parecía mucho al sucedáneo que compraba en algunas ocasiones especiales. Saboreó un amargor más suave y delicado, y percibía algunas tonalidades que no lograba asociar concretamente con nada, pero se convenció de que a eso debían oler los campos siberianos de café.&lt;&#x2F;p&gt;
+&lt;p&gt;Pasado un rato se abrieron las puertas para el embarque, terminó el poco café restante y se levantó para dirigirse al transporte junto con el resto de pasajeros.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Nota&lt;&#x2F;strong&gt;: si te ha gustado, te invito a que leas &lt;a href=&quot;https:&#x2F;&#x2F;danisancas.com&#x2F;inspiracion-el-primer-viaje&#x2F;&quot;&gt;Qué me inspiró para escribir &#x27;El primer viaje&#x27;&lt;&#x2F;a&gt;, donde repaso las ideas que me rondaban para escribir este micro-relato.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+    </entry>
+</feed>

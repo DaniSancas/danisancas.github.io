@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <title>Dani Sancas - Esgrima</title>
+    <subtitle>Website personal de Dani Sancas</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://danisancas.com/etiquetas/esgrima/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://danisancas.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-02-20T00:00:00+00:00</updated>
+    <id>https://danisancas.com/etiquetas/esgrima/atom.xml</id>
+    <entry xml:lang="es">
+        <title>El descanso del guerrero</title>
+        <published>2023-02-19T00:00:00+00:00</published>
+        <updated>2023-02-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Dani Sancas
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://danisancas.com/el-descanso-del-guerrero/"/>
+        <id>https://danisancas.com/el-descanso-del-guerrero/</id>
+        <content type="html" xml:base="https://danisancas.com/el-descanso-del-guerrero/">&lt;p&gt;Esta publicación no estaba planificada de antemano, pero he decidido hacer un alto en el camino y plasmar un poco de mi vida personal, ¡que para eso es mi propio sitio web!&lt;&#x2F;p&gt;
+&lt;p&gt;Si vuestras visitas buscan únicamente relatos o reseñas de algo relacionado con el ocio, no lo váis a encontrar en esta publicación. Lo que sí encontraréis es una reseña (si se puede llamar así) de mis últimos tiempos como deportista.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;Empecé en el gimnasio hace 5 años y medio, como un grito desesperado en busca de un cambio de rumbo tras el peor estado físico y anímico de mi vida. Empecé con entrenamientos tipo &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;es.wikipedia.org&#x2F;wiki&#x2F;Levantamiento_de_potencia&quot;&gt;Powerlifting&lt;&#x2F;a&gt; y anduve en ese mundillo un par de años. Mis marcas nunca fueron nada reseñable, no esperéis aquí la historia de ningún nuevo &lt;strong&gt;Hulk&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;hulk.png&quot; alt=&quot;Hulk&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+  &lt;p class=&quot;image-footer&quot;&gt;En lo que NO me he convertido.&lt;&#x2F;p&gt;
+&lt;&#x2F;center&gt;
+&lt;p&gt;Tiempo después me empezó a interesar más el entrenamiento de &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;es.wikipedia.org&#x2F;wiki&#x2F;Hipertrofia_muscular&quot;&gt;hipertrofia&lt;&#x2F;a&gt; (es decir, lo que realizan los culturistas, pero en mi caso sin competir en dicho deporte). Aquí tampoco esperéis la historia de ningún nuevo &lt;strong&gt;Conan el Bárbaro&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;conan.jpeg&quot; alt=&quot;Conan el Bárbaro&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+  &lt;p class=&quot;image-footer&quot;&gt;En lo que TAMPOCO me he convertido.&lt;&#x2F;p&gt;
+&lt;&#x2F;center&gt;
+&lt;p&gt;Con el tiempo fue resonando en mi cabeza un deporte que había probado de pequeño (un fin de semana cuando tenía 10 o 12 años), y que me había parecido muy interesante: la &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;es.wikipedia.org&#x2F;wiki&#x2F;Esgrima&quot;&gt;Esgrima deportiva&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Al principio pensé en empezar &quot;más adelante&quot;, quizá &quot;cuando me cansara del gimnasio&quot;. Pero en vista de que ese momento no parecía llegar nunca, decidí dar el paso y llamé a un club de esgrima de mi ciudad para ir a probar.&lt;&#x2F;p&gt;
+&lt;p&gt;Ese día fue muy divertido. Y recalco &lt;strong&gt;ese&lt;&#x2F;strong&gt; en singular, porque fui a probar unos días antes de que se decretara el confinamiento duro por COVID-19 en España, así que me tuve que conformar con ese efímero recuerdo durante meses, hasta que en septiembre de 2020 el club volvió a abrir sus puertas.&lt;&#x2F;p&gt;
+&lt;p&gt;Podemos decir que realmente empecé en esgrima con mascarilla (qué cerca y qué lejos queda esto) y desde entonces he sido un asiduo de este deporte. Realicé mi primera competición a los 6 meses de ingresar en el club y tuve muy buen resultado, quedando por la mitad de la tabla.&lt;&#x2F;p&gt;
+&lt;p&gt;Con el tiempo he ido compaginando gimnasio y esgrima, hasta que esta temporada (iniciada en septiembre de 2022) decidí competir a nivel nacional en esgrima. Os dejo caer otro &lt;em&gt;spoiler&lt;&#x2F;em&gt;: Competir a nivel nacional en esgrima no significa nada más allá de estar pagando una licencia nacional, no os esperéis la historia de ningún nuevo &lt;strong&gt;Íñigo Montoya&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;inigo_montoya.jpg&quot; alt=&quot;Íñigo Montoya&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+  &lt;p class=&quot;image-footer&quot;&gt;Y en lo que TAMPOCO me convertiré.&lt;&#x2F;p&gt;
+&lt;&#x2F;center&gt;
+&lt;p&gt;En el momento de escribir estas líneas he realizado 10 competiciones durante esta temporada. A una media de una competición cada 2 o 3 semanas. Han sido competiciones regionales, nacionales absolutas (sin categorías de edad) o de veteranos (con categorías de edad, en mi caso la categoría 30+). En una semana normal dedico entre 10 y 13 horas a practicar las 2 disciplinas mentadas. Para algunos lectores quizá les parezca mucho, para otros puede resultar un volumen de trabajo perfectamente asequible. Y para mí ha sido asequible durante meses... hasta que he tenido que parar.&lt;&#x2F;p&gt;
+&lt;p&gt;Hace 2 semanas tuve una doble competición en Santiago de Compostela, no era la primera vez que tenía que competir 2 días seguidos, así que me esperé un par de días para empezar a notar la recuperación. Pero esta regresión a mi estado habitual no terminaba de llegar. Me vi obligado a bajar mi volumen de entrenamiento a cerca de un tercio, y a subir la cantidad de comida que ingería, y aún así estaba bajando de peso (mala pinta, ¿verdad?). El sueño me resultaba insuficiente a todas luces e incluso terminaba de trabajar con dolor de cabeza y con ganas de meterme en la cama a las 6 de la tarde.&lt;&#x2F;p&gt;
+&lt;p&gt;Este último punto no se hizo obvio hasta que hablé con un compañero de trabajo estos días, contándole mis intentos de volver a la normalidad, cuando me comentó que él se sentía parecido desde hacía también un par de semanas. Es un compañero con el que he estado trabajando mano a mano las últimas semanas, dedicados más o menos a lo mismo, ¡qué casualidad!&lt;&#x2F;p&gt;
+&lt;p&gt;Sin dar muchos detalles (y sin intención de hablar de trabajo por aquí, para qué engañarnos) estamos en medio de una implantación de una solución que hemos empezado en nuestro equipo, pero que estamos ahora extendiendo a otros equipos y les estamos ayudando a adoptarla. Ahí es donde se me encendió la bombilla. Es muy probable que la carga cognitiva derivada de este esfuerzo por explorar algo nuevo y llevarlo a diferentes sitios de la compañía me haya pasado factura, generando un estrés silencioso que, junto con la carga de trabajo físico de las últimas semanas, haya hecho que no me recupere debidamente.&lt;&#x2F;p&gt;
+&lt;p&gt;Volviendo al tema deportivo, ayer competí en esgrima. Fui desganado, todavía agotado y tuve una amalgama de sentimientos: un resultado muy malo en la competición, mezclado con un asalto muy bueno que hice contra uno de los &lt;em&gt;tiradores&lt;&#x2F;em&gt; (así llamamos a los esgrimistas) más fuertes de mi club. No le gané, pero es quizá el mejor asalto que he tirado hasta la fecha. La parte mala del día de ayer es que terminé totalmente saturado.&lt;&#x2F;p&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;el_descanso_del_guerrero.jpg&quot; alt=&quot;Descanso del guerrero (1878) de Antoni Fabrés&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+  &lt;p class=&quot;image-footer&quot;&gt;Descanso del guerrero (1878) de Antoni Fabrés.&lt;&#x2F;p&gt;
+&lt;&#x2F;center&gt;
+&lt;p&gt;En vista de que en 2 semanas tengo otra competición más, he decidido dar un paso más allá en mi recuperación. Tengo incluso la opción de ir a otra competición más dentro de menos de 1 semana, pero mi mente me ha dejado claro que no vamos a ir. La parte buena de unir las piezas del puzzle es que puedes actuar en consecuencia, y de ahí viene el título de esta publicación. No tocaré una espada la próxima semana, y las sesiones de gimnasio que haga serán todavía maś livianas de lo que he venido haciendo los últimos días. Por otro lado, veré qué puedo cambiar en mi trabajo para que la carga cognitiva vaya menguando y no empeore mi situación&lt;&#x2F;p&gt;
+&lt;p&gt;Dentro de 1 semana, haré algo de esgrima, lo mínimo indispensable para no ir completamente oxidado y, en función de mi recuperación, quizá incremente un poco el volumen de entrenamiento en el gimnasio. Sólo si lo veo muy claro, &lt;strong&gt;debe primar mi bienestar&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Sobre esta última frase: es algo que a menudo se nos olvida. Hacemos actividades de ocio porque nos gustan, porque nos aportan. Pero hay veces en las que nos sentimos obligados (de manera autoimpuesta), como si nos debiéramos a una sagrada misión. Quizá porque vivimos en una cultura en la que está mal visto no dar el 100% cada segundo de tu vida. Donde se ve como debilidad faltar a tu cita con cierta actividad en pos de tu salud física y mental. Creo que parar a tiempo es clave, para no llegar a aborrecer aquello que nos gusta, incluso aunque nos encontremos en plena temporada competitiva, como es mi caso.&lt;&#x2F;p&gt;
+&lt;p&gt;En este punto es cuando &lt;strong&gt;el descanso del guerrero&lt;&#x2F;strong&gt; cobra sentido. Para deshacernos de todo lo que nos impide estar bien. Para pensar más a fondo en nuestras prioridades y en lo que queremos hacer con nuestra vida. Para darnos un espacio y tiempo con aquellas actividades que nos encantan pero que nos están saturando y no nos dejan disfrutar... Para volver más fuertes en todos los sentidos.&lt;&#x2F;p&gt;
+&lt;p&gt;Gracias por leer mi lado más personal, si os interesan (u os causan indiferencia) este tipo de publicaciones podéis hacerme llegar vuestra opinión.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+</feed>
